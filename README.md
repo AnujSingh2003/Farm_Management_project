@@ -90,8 +90,4 @@ python app.py
 
 Your application should now be running on `http://127.0.0.1:5000/`.
 
-## Contact
 
-For any queries or assistance, contact me via Instagram.
-
----

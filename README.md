@@ -15,9 +15,7 @@ This project is designed for agricultural purposes where farmers can keep track 
 7. **View Records**: Farmers can view their records.
 8. **Sell Agro Products**: Farmers can list their products for sale.
 
-## Note
 
-Need any help? Contact me or message me through Instagram. Solving live doubt sessions cost 500 Rs.
 
 ## Requirements
 
